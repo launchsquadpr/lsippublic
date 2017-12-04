@@ -17,7 +17,7 @@ The LS/IP was developed by LaunchSquad from the ground up to support and augment
 The LS/IP measures results across earned, owned and paid media and combines into one easy-to-access online dashboard. The platform enables our teams and clients to more deeply understand which strategies are driving the most impactful results and ultimately use that data to evolve our program over time based on what’s most effective.
 
 # For LaunchSquad Teams
-Check out the wiki (**include link**) for FAQs, detailed guides, and general information.
+Check out **[the wiki](https://github.com/launchsquadpr/lsippublic/wiki)** for FAQs, detailed guides, and general information.
 
 # For Clients
 Use the resources below when discussing the LS/IP with a new biz prospect or current client.
