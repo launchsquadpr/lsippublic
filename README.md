@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://github.com/launchsquadpr/lsippublic/blob/master/launchsquad_logo.jpg" width="400">
 </p>
+<p align="center">
+<strong><a href="http://intelligence.launchsquad.com" target="_blank">http://intelligence.launchsquad.com</a></strong>
+</p>
 
 # Overview
 The LaunchSquad Intelligence Platform (LS/IP) is a suite of apps that work together to monitor and analyze media activity, social engagement, competitor coverage and web traffic to give clients a full view of the impact of their PR results and strategy.
